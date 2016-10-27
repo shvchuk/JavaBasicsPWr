@@ -3,5 +3,9 @@
  */
 public class NajwiekszyWspolnyDzielnikEuklides {
 
+    public static void main(String[] args) {
+        
+    }
+
 
 }
